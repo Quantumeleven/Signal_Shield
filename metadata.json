@@ -1,0 +1,6 @@
+{
+  "name": "Unified Signal Shield",
+  "description": "FCC-regulated RF and Free-Space Optical (FSO) spectrum defense monitor with emergency location dispatch, non-simulated SDR live feeds, and strict HIPAA hospital-authorized biomedical telemetry governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

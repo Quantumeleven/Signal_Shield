@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unified Signal Shield</string>
+    <string name="title_rf_spectrum">RF Spectrum</string>
+    <string name="title_fso_defense">FSO Optical</string>
+    <string name="title_events">Threat Log</string>
+    <string name="title_settings">Bridge &amp; Config</string>
+</resources>
